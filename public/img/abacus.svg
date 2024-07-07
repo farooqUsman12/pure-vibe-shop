@@ -1,0 +1,7 @@
+<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="abacus">
+<path id="Vector" d="M2.5 12.343C2.5 7.86468 2.5 5.62551 3.89124 4.23426C5.28249 2.84302 7.52166 2.84302 12 2.84302C16.4783 2.84302 18.7175 2.84302 20.1088 4.23426C21.5 5.62551 21.5 7.86468 21.5 12.343C21.5 16.8213 21.5 19.0605 20.1088 20.4518C18.7175 21.843 16.4783 21.843 12 21.843C7.52166 21.843 5.28249 21.843 3.89124 20.4518C2.5 19.0605 2.5 16.8213 2.5 12.343Z" stroke="black" stroke-width="1.5" stroke-linejoin="round"/>
+<path id="Vector_2" d="M6 9.34302H9.5M17 9.34302H18M12 8.34302V10.343M14.5 8.34302V10.343" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M18 15.343H12M7 15.343H6M9.5 14.343V16.343" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

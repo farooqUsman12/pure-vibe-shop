@@ -1,0 +1,2 @@
+export const GET_ORDERS = "GET_ORDERS";
+export const GET_ORDERS_DETAILS = "GET_ORDERS_DETAILS";
